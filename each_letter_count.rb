@@ -6,6 +6,7 @@
 
 p "Enter a word:"
 
+
 # get the word
 word = gets.chomp.downcase
 # split the word into letters into an array
